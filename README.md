@@ -2,6 +2,8 @@
 
 A powerful Retrieval-Augmented Generation (RAG) application designed to analyze investment textbooks and documents. This system allows users to upload PDF files and ask complex questions, receiving answers strictly based on the provided content.
 
+Live Link - https://8s4qbncbbyqwgrjfh5ddyf.streamlit.app/
+
 ## 🚀 Features
 
 - **PDF Analysis**: Upload any investment-related PDF for instant indexing.
